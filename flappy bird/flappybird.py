@@ -1,7 +1,16 @@
+'''|**********************************************************************;
+* Project           : Flappy Bird game
+*
+* Author            : Sourabh Gond
+*
+* Date created      : 30/7/2018
+*
+* Purpose           : Just for fun
+*
+|**********************************************************************'''
 import pygame
 import os
 from random import *
-'''This is a flappy bird game created by sourabh gond'''
 black = (0,0,0)
 white = (255,255,255)
 WIDTH = 284*3
